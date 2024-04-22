@@ -73,7 +73,7 @@
       "Code": "Responsible",
       "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
-      "PreviousPropertyGuid": "A5C1BAE3-1F10-4B5B-B5AE-949D1DE8FC5A"
+      "PreviousPropertyGuid": "a5c1bae3-1f10-4b5b-b5ae-949d1de8fc5a"
     }
   ],
   "PublicStructures": [],
