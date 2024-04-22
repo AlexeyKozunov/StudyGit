@@ -70,4 +70,7 @@
   <data name="Property_Enumeration" xml:space="preserve">
     <value>Перечисление</value>
   </data>
+  <data name="Property_Code" xml:space="preserve">
+    <value>Code</value>
+  </data>
 </root>

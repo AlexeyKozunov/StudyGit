@@ -67,7 +67,22 @@
           "RowNumber": 2,
           "RowSpan": 1,
           "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
+          "NameGuid": "7123ffad-6b5d-48bb-b8d9-17a87a43bf3e",
+          "Name": "Code",
+          "ColumnNumber": 0,
+          "ColumnSpan": 1,
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+          "ParentGuid": "ffd90a25-e991-4b21-a0b2-c69687cd1633",
+          "PropertyGuid": "02ae94fd-6a54-41b1-94f4-9f9797938264",
+          "RowNumber": 1,
+          "RowSpan": 1,
+          "Settings": []
         }
+
+
       ]
     }
   ],
@@ -120,6 +135,14 @@
       ],
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToEnumerationBinder",
       "PreviousPropertyGuid": "749bf7eb-a518-4e28-862b-efe28518a301"
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "02ae94fd-6a54-41b1-94f4-9f9797938264",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "d93df65d-6945-48a8-bd12-bddad5b09952"
     }
     
   ],
