@@ -77,12 +77,10 @@
           "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
           "ParentGuid": "ffd90a25-e991-4b21-a0b2-c69687cd1633",
           "PropertyGuid": "02ae94fd-6a54-41b1-94f4-9f9797938264",
-          "RowNumber": 1,
+          "RowNumber": 3,
           "RowSpan": 1,
           "Settings": []
         }
-
-
       ]
     }
   ],
@@ -144,7 +142,6 @@
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
       "PreviousPropertyGuid": "d93df65d-6945-48a8-bd12-bddad5b09952"
     }
-    
   ],
   "PublicStructures": [],
   "ResourcesKeys": [],
